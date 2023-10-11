@@ -6,5 +6,5 @@
     'types': [text]
     args: ["-m -s .min -d web/static"]
     require_serial: false
-    additional_dependencies: ["@josee9988/minifyall@1.1.14"]
+    additional_dependencies: ["@josee9988/minifyall@1.1.15"]
     minimum_pre_commit_version: '0'
