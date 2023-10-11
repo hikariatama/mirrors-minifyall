@@ -3,7 +3,7 @@
     description: ''
     entry: minifyall
     language: node
-    'types': [text]
+    files: '^\w*\.css$'
     require_serial: false
     additional_dependencies: ["@josee9988/minifyall@1.2.2"]
     minimum_pre_commit_version: '0'
